@@ -1,0 +1,12 @@
+1. create folder mylogger
+2. cd mylogger
+3. go mod init github.com/code-deli/mylogger , this will create a go.mod file
+4. go to git hub and create the exact same repo "github.com/code-deli/mylogger"
+5. main.go 
+6. git init 
+7. git remote add origin git@github.com:code-deli/mylogger.git
+8. git add .
+9. git commit -am "initial commit"
+10. git push 
+11. git tag "v1.0.0"
+12. git push --tags
